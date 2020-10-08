@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: net.xdclass.online_xdclass.OnlineXdclassApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 7.493 s <<< FAILURE! - in net.xdclass.online_xdclass.OnlineXdclassApplicationTests
+testGeneJwt  Time elapsed: 4.536 s  <<< ERROR!
+java.lang.NullPointerException
+	at net.xdclass.online_xdclass.OnlineXdclassApplicationTests.testGeneJwt(OnlineXdclassApplicationTests.java:35)
+
